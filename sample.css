@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.header{
+    float: none;
+    height: auto;
+    background-color: azure;
+    
+}
+.header-list{
+    float: left;
+}
+.header-list li{
+    background-color: aquamarine;
+    height: auto;
+    padding: 33px 20px;
+    width: auto;
+    float: left
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+h1{
+    color:mediumvioletred;
+    padding-top: 10px
+   
+  }
+.main{
+    float: none;
+    padding-top: 90px;
+}
+li{
+    list-style: none;
+    float: none;
+     height: auto;
+    padding: 33px 20px;
+    width: auto;
+}
+
+.pic1{
+    width: 55%;
+    margin: auto
+}
+
+.body-list{
+    float: left
+}
+.a{
+    margin-top: none;
+}
