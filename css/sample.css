@@ -50,4 +50,19 @@ li{
 .a{
     margin-top: none;
 }
-
+@media screen and (max-width: 640px){
+   
+    .header-list li{
+        font-size: 90%;
+        margin: auto;
+    }
+    .pic1{
+        text-align:center;
+        margin: auto;
+        width: 50%;
+        
+    }
+    .body-list{
+    width:300%
+    }
+}
