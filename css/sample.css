@@ -56,11 +56,13 @@ li{
         font-size: 80%;
         margin: auto;
     }
-    .h1{
+    .h5{
         font-size 60px;
     }
     .pic1{
         text-align:center;
+        margin: auto;
+        width: 80%;
         
     }
 }
