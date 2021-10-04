@@ -41,11 +41,11 @@ li{
 
 .pic1{
     width: 55%;
-    margin: auto
+    margin: auto;
 }
 
 .body-list{
-    float: left
+    float: left;
 }
 .a{
     margin-top: none;
@@ -54,7 +54,7 @@ li{
    
     .header-list li{
         font-size: 80%;
-        margin: auto
+        margin: auto;
     }
     .pic1{
         text-align:center;
