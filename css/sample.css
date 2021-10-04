@@ -50,6 +50,15 @@ li{
 .a{
     margin-top: none;
 }
+
+.footer{
+    background-color:#2f5167;
+    height:120px;
+    padding:40px;
+}
+.footer-list{
+    float:right;
+}
 @media screen and (max-width: 640px){
    
     .header-list li{
