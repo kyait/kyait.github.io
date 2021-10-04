@@ -50,3 +50,10 @@ li{
 .a{
     margin-top: none;
 }
+@media screen and (max-width: 640px){
+   
+    .header-list li{
+        font-size: 80%;
+        margin: auto
+    }
+}
